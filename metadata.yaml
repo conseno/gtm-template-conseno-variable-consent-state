@@ -1,0 +1,5 @@
+homepage: "https://conseno.com"
+documentation: "https://conseno.com/installation/google-tag-manager/"
+versions:
+  - sha: 4a2c32ad672888573fa3d317e9a01dee01947a7d
+    changeNotes: Conseno CMP - Consent State (variable template) v1.0
